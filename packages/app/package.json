@@ -1,0 +1,29 @@
+{
+  "name": "@mono-repo-example/app",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "pdsuwwz <pdsu.wwz@foxmail.com>",
+  "homepage": "https://github.com/pdsuwwz/mono-repo-example#readme",
+  "license": "ISC",
+  "main": "lib/main.js",
+  "dependencies": {
+    "@mono-repo-example/first": "^1.0.0",
+    "@mono-repo-example/second": "^1.0.0"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdsuwwz/mono-repo-example.git"
+  },
+  "scripts": {
+  },
+  "bugs": {
+    "url": "https://github.com/pdsuwwz/mono-repo-example/issues"
+  }
+}
