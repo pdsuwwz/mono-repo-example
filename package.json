@@ -7,7 +7,8 @@
     "packages/*"
   ],
   "scripts": {
-    "test": "lerna run test  --stream"
+    "test": "lerna run test  --stream",
+    "update:version": "lerna version --no-push"
   },
   "devDependencies": {
     "jest": "^27.0.1",

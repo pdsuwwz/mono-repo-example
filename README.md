@@ -19,3 +19,9 @@ node .
 ```bash
 yarn test
 ```
+
+# Version
+
+```bash
+yarn update:version
+```
