@@ -2,26 +2,38 @@
 The Architecture of Monorepo System based on Lerna
 
 
-# Install
+## Install
 
 ```bash
 yarn install
 ```
 
-# Run app
+## Run app
 
 ```bash
 node .
 ```
 
-# Tests with Lerna
+## Tests with Lerna
 
 ```bash
 yarn test
 ```
 
-# Version
+## Lint
+
+```bash
+yarn lint
+```
+
+## Update Version
 
 ```bash
 yarn update:version
+```
+
+## Install External Dependencies
+
+```bash
+yarn add xxx -W
 ```
