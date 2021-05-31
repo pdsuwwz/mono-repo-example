@@ -1,5 +1,8 @@
 {
   "name": "mono-repo-example",
+  "description": "The Architecture of Monorepo System based on Lerna",
+  "author": "Wisdom <pdsu.wwz@foxmail.com>",
+  "homepage": "https://github.com/pdsuwwz/mono-repo-example#readme",
   "private": true,
   "license": "MIT",
   "main": "packages/app/lib/main.js",
@@ -19,5 +22,12 @@
     "eslint-plugin-promise": "^5.1.0",
     "jest": "^27.0.1",
     "lerna": "^4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdsuwwz/mono-repo-example.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pdsuwwz/mono-repo-example/issues"
   }
 }
