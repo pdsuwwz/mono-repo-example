@@ -4,7 +4,7 @@
   "description": "> TODO: description",
   "author": "pdsuwwz <pdsu.wwz@foxmail.com>",
   "homepage": "https://github.com/pdsuwwz/mono-repo-example#readme",
-  "license": "ISC",
+  "license": "MIT",
   "main": "lib/main.js",
   "directories": {
     "lib": "lib",

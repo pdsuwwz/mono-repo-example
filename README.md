@@ -5,7 +5,7 @@
 ## Install
 
 ```bash
-yarn install
+pnpm install
 ```
 
 ## Run app
@@ -17,23 +17,23 @@ node .
 ## Tests with Lerna
 
 ```bash
-yarn test
+pnpm test
 ```
 
 ## Lint
 
 ```bash
-yarn lint
+pnpm lint
 ```
 
 ## Update Version
 
 ```bash
-yarn update:version
+pnpm update:version
 ```
 
 ## Install External Dependencies
 
 ```bash
-yarn add xxx -W
+pnpm add xxx -W
 ```
