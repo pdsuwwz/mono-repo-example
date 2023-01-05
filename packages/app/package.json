@@ -1,14 +1,14 @@
 {
   "name": "@mono-repo-example/app",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "> TODO: description",
   "author": "pdsuwwz <pdsu.wwz@foxmail.com>",
   "homepage": "https://github.com/pdsuwwz/mono-repo-example#readme",
   "license": "MIT",
   "main": "lib/main.js",
   "dependencies": {
-    "@mono-repo-example/first": "workspace:^0.1.0",
-    "@mono-repo-example/second": "workspace:^0.1.0"
+    "@mono-repo-example/first": "workspace:^0.2.0",
+    "@mono-repo-example/second": "workspace:^0.2.0"
   },
   "directories": {
     "lib": "lib",

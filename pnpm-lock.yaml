@@ -24,8 +24,8 @@ importers:
 
   packages/app:
     specifiers:
-      '@mono-repo-example/first': workspace:^0.1.0
-      '@mono-repo-example/second': workspace:^0.1.0
+      '@mono-repo-example/first': workspace:^0.2.0
+      '@mono-repo-example/second': workspace:^0.2.0
     dependencies:
       '@mono-repo-example/first': link:../first
       '@mono-repo-example/second': link:../second
