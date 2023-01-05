@@ -7,8 +7,8 @@
   "license": "MIT",
   "main": "lib/main.js",
   "dependencies": {
-    "@mono-repo-example/first": "^0.1.0",
-    "@mono-repo-example/second": "^0.1.0"
+    "@mono-repo-example/first": "workspace:^0.1.0",
+    "@mono-repo-example/second": "workspace:^0.1.0"
   },
   "directories": {
     "lib": "lib",
