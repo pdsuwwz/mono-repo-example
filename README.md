@@ -32,6 +32,12 @@ pnpm lint
 pnpm update:version
 ```
 
+## Update Dependencies
+
+```bash
+pnpm up --recursive --latest
+```
+
 ## Install External Dependencies
 
 ```bash
